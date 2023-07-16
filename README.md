@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Z3RO</h1>
+<h1 align="center">Hi 👋, I'm Antarctic</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codez3ro&label=Profile%20views&color=0e75b6&style=flat" alt="codez3ro" /> </p>
