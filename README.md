@@ -6,14 +6,9 @@ I build things. Usually self-hosted, sometimes unnecessarily complex, always edu
 
 ## 🔨 Current Projects
 
-### [Proxify](https://github.com/) — Proxmox Desktop Client for Windows
-A native Windows desktop app for managing my Proxmox homelab, built in Python/tkinter with a polished dark UI.
-
-- LXC/VM overview and control
-- Proxmox REST API integration
-- Dark mode UI, no browser needed
-
-**Stack:** Python · tkinter · Proxmox API
+<div style="display:flex;">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=m0skwa&repo=m0skwa/proxify&show_owner=true&description_lines_count=3&theme=dark" alt="GitHub Stats" />
+</div>
 
 ---
 
@@ -59,9 +54,3 @@ Hardware      ASUS TUF B650 · Ryzen 7 7800X3D · Radeon RX 7900 XTX
 ## 📍 Based in
 
 Koblenz · Rhineland-Palatinate · Germany
-
----
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=m0skwa&repo=m0skwa/proxify&show_owner=true&description_lines_count=3&theme=dark" alt="GitHub Stats" />
-</p>
