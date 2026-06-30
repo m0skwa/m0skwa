@@ -1,23 +1,67 @@
-# 👋 Hi, I'm m0skwa
+# Hey, I'm m0skwa 👋
 
-Welcome to my GitHub profile!  
-I'm a passionate developer focused on building modern, user-friendly web applications.
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-## 📊 Visitor Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=m0skwa&color=0e75b6&style=flat)
+I build things. Usually self-hosted, sometimes unnecessarily complex, always educational.
 
 ---
 
-🌱 I'm constantly learning and working on exciting new projects.  
-💬 Feel free to reach out or contribute to any of my repositories!
+## 🔨 Current Projects
+
+### [Proxify](https://github.com/) — Proxmox Desktop Client for Windows
+A native Windows desktop app for managing my Proxmox homelab, built in Python/tkinter with a polished dark UI.
+
+- LXC/VM overview and control
+- Proxmox REST API integration
+- Dark mode UI, no browser needed
+
+**Stack:** Python · tkinter · Proxmox API
+
+---
+
+## 🏠 Homelab
+
+Self-hosted infrastructure running on **Proxmox** with multiple LXC containers:
+
+| Service | Purpose |
+|---|---|
+| Pi-hole | DNS Filtering & Ad-Blocking |
+| Nginx Proxy Manager | Reverse Proxy with SSL |
+| WireGuard | VPN |
+| Passbolt | Self-hosted Password Manager |
+| MariaDB | Database Backend |
+| RustDesk | Self-hosted Remote Access |
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages     Python · JavaScript · TypeScript · Bash
+Frontend      React · Tailwind · Capacitor
+Backend       Node.js · MariaDB · MongoDB · Nginx
+Infra         Proxmox · LXC · Docker · WireGuard
+OS            Arch Linux / Windows dual-boot · MacOS Tahoe
+Hardware      ASUS TUF B650 · Ryzen 7 7800X3D · Radeon RX 7900 XTX
+```
+
+---
+
+## 🎯 Interests
+
+- 🏗️ Homelab & Self-hosting
+- 💻 Coding & Building Projects
+- 🖨️ 3D Printing (Ender 3 V3 KE · Bambu Lab P2S)
+- 🚁 FPV Drones
+- 🎮 Gaming (CS2 · Call of Duty · GTA)
+- 📡 Networking & Infrastructure
+
+---
+
+## 📍 Based in
+
+Koblenz · Rhineland-Palatinate · Germany
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=m0skwa&repo=m0skwa/proxify&show_owner=true&description_lines_count=3&theme=dark" alt="GitHub Stats" />
+</p>
