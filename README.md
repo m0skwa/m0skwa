@@ -5,7 +5,9 @@ I build things. Usually self-hosted, sometimes unnecessarily complex, always edu
 
 ## 🔨 Current Projects
 <div style="display:flex;">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=m0skwa&repo=m0skwa/proxify&show_owner=true&description_lines_count=3&theme=dark" alt="GitHub Stats" />
+  <a href="https://github.com/m0skwa/proxify">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=m0skwa&repo=m0skwa/proxify&show_owner=true&description_lines_count=3&theme=dark" alt="GitHub Stats" />
+  </a>
 </div>
 
 ---
